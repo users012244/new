@@ -1,0 +1,7 @@
+torch
+torchaudio
+torchvision
+opencv-python-headless
+matplotlib
+numpy
+git+https://github.com/facebookresearch/sam2.git
